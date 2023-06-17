@@ -14,7 +14,7 @@
 # Временные диаграммы
 
 ![Diagram 1](/images/time1.png?raw=true "Diagram 1")
-![Diagram 2](/images/time2.png?raw=true "Diagram 3")
+![Diagram 2](/images/time2.png?raw=true "Diagram 2")
 ![Diagram 2](/images/time2.png?raw=true "Diagram 3")
 
 # Модель на языке Python
