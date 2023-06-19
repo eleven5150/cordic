@@ -1,3 +1,5 @@
+`include "settings.h"
+
 module rotator (
     input wire clk,
     input wire rst,

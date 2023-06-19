@@ -12,6 +12,7 @@
  */
 `define AMOUNT_OF_TEST_VALUES 100
 
+`include "settings.h"
 `include "cordic.v"
 `include "rotator.v"
 `include "signed_shifter.v"

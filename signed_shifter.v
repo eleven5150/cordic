@@ -1,3 +1,5 @@
+`include "settings.h"
+
 module signed_shifter (input wire [`ITERATION_BITS-1:0] i,
                        input wire signed [`XY_BITS:0] D,
                        output reg signed [`XY_BITS:0] Q);
